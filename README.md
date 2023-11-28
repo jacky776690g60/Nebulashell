@@ -1,0 +1,1 @@
+<img alt="Cover" src="samples/cover.png" width="400" />
